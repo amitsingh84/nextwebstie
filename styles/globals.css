@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer base{
+  body{
+    @apply bg-[#0f0617] text-gray-300 font-robo font-normal
+  }
+}
+:root{
+  --swiper-navigation-color: #ccc;
+  }
+/* h3{
+  font-size: 30px;
+  font-weight: 500;
+  color:#fff;
+  letter-spacing: 1px;
+} */
+.play_button::before{
+  
+    content: "";
+    width: 0;
+    height: 0;
+    border-top: 7px solid transparent;
+    border-bottom: 7px solid transparent;
+    border-left: 10px solid #fff;
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    left: 14px;
+}
+.swiper-slide-next .define_height .not_show, .swiper-slide-prev .define_height .not_show{
+ display: none;
+}
+.swiper-slide-active .define_height .not_show{
+  display: block;
+}
+.main_header{
+  z-index: 7;
+}
+
+ 
+@media (max-width:767px){
+  .center_align nav > div{
+    justify-content: center;
+  }
+}
+@media (max-width:480px){
+  .center_align nav > div{
+    justify-content: unset;
+  }
+}
+  @media (max-width:768px) {
+    .hiddenMobile{
+      display:none
+  }
+}

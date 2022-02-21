@@ -1,0 +1,23 @@
+  const personData=[
+
+      {
+          searchByName:"Harshgujral",
+          content:"Harsh Gujral was born in Kanpur and is a Delhi-based stand-up comedian. He started his comedy career in 2015 while working a 9 to 5 job as a data engineer, doing his job during the day and hitting open mics at night. He has this raw energy of the boy- next- door on stage which resonates with the audience amazingly and establishes a great camaraderie between him and the audience. No wonder his crowd work is so enjoyable and loved by masses! He also does observational humour along with telling stories about his childhood in such a way which is related by many. He did stand-up for 3 years before releasing his first video on YouTube on 5th July 2019 titled ‘Indian Reality Shows – Stand Up Comedy ft. Harsh Gujral’ which gained over 13 million views. His most-watched video till date is titled ‘Shadi Ki Rasmein – Standup Comedy ft. Harsh Gujral’ with over 16 million views. He recently crossed over 1 million YouTube subscribers with the release of his crowd work video with Anubhav Singh Bassi titled ‘Harsh & Bassi Unleashed | Crowd Work | Standup Comedy’ which has over 15 million views. His Instagram game is also not lagging behind where he has over 530K followers. He constantly posts funny reels on Instagram sometimes even including his parents in these videos which makes them even more hilarious and wholesome.",
+          imgUrl:"/comedian/Harsh-Gujral.jpeg",
+          channelId:"UCGmhWgV9bmslB0Levatl6qA"
+      },
+      {
+         searchByName:"AbhishekUpmanyuu",
+         content:"Harsh Gujral was born in Kanpur and is a Delhi-based stand-up comedian. He started his comedy career in 2015 while working a 9 to 5 job as a data engineer, doing his job during the day and hitting open mics at night. He has this raw energy of the boy- next- door on stage which resonates with the audience amazingly and establishes a great camaraderie between him and the audience. No wonder his crowd work is so enjoyable and loved by masses! He also does observational humour along with telling stories about his childhood in such a way which is related by many. He did stand-up for 3 years before releasing his first video on YouTube on 5th July 2019 titled ‘Indian Reality Shows – Stand Up Comedy ft. Harsh Gujral’ which gained over 13 million views. His most-watched video till date is titled ‘Shadi Ki Rasmein – Standup Comedy ft. Harsh Gujral’ with over 16 million views. He recently crossed over 1 million YouTube subscribers with the release of his crowd work video with Anubhav Singh Bassi titled ‘Harsh & Bassi Unleashed | Crowd Work | Standup Comedy’ which has over 15 million views. His Instagram game is also not lagging behind where he has over 530K followers. He constantly posts funny reels on Instagram sometimes even including his parents in these videos which makes them even more hilarious and wholesome.",
+          imgUrl:"/comedian/Harsh-Gujral.jpeg",
+          channelId:"UCGmhWgV9bmslB0Levatl6qA"
+      },
+      {
+          searchByName:"SujitPandeyji",
+          content:"Harsh Gujral was born in Kanpur and is a Delhi-based stand-up comedian. He started his comedy career in 2015 while working a 9 to 5 job as a data engineer, doing his job during the day and hitting open mics at night. He has this raw energy of the boy- next- door on stage which resonates with the audience amazingly and establishes a great camaraderie between him and the audience. No wonder his crowd work is so enjoyable and loved by masses! He also does observational humour along with telling stories about his childhood in such a way which is related by many. He did stand-up for 3 years before releasing his first video on YouTube on 5th July 2019 titled ‘Indian Reality Shows – Stand Up Comedy ft. Harsh Gujral’ which gained over 13 million views. His most-watched video till date is titled ‘Shadi Ki Rasmein – Standup Comedy ft. Harsh Gujral’ with over 16 million views. He recently crossed over 1 million YouTube subscribers with the release of his crowd work video with Anubhav Singh Bassi titled ‘Harsh & Bassi Unleashed | Crowd Work | Standup Comedy’ which has over 15 million views. His Instagram game is also not lagging behind where he has over 530K followers. He constantly posts funny reels on Instagram sometimes even including his parents in these videos which makes them even more hilarious and wholesome.",
+          imgUrl:"/comedian/Harsh-Gujral.jpeg",
+          channelId:"UCGmhWgV9bmslB0Levatl6qA"
+      },
+  ]
+
+  export default personData
